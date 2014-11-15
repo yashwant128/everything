@@ -1,6 +1,5 @@
 Everything
 ==========
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vndmtrx/everything?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Chaos](circlet.png?raw=true)
 
@@ -19,5 +18,7 @@ Everything!
 Nothing! Ok, being serious now. Don't send something that is part of another project or illegal content or content that is not of your authorship. Neither kittens! Otherwise, everything is permitted!
 
 ### Why should I welcome you, Gandalf the storm crow?
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vndmtrx/everything?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Gospers Glider Gun](gospers_glider_gun.gif?raw=true)
