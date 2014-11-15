@@ -1,5 +1,6 @@
 Everything
 ==========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vndmtrx/everything?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Chaos](circlet.png?raw=true)
 
