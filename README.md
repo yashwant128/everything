@@ -19,6 +19,8 @@ Nothing! Ok, being serious now. Don't send something that is part of another pro
 
 ### Why should I welcome you, Gandalf the storm crow?
 
+[![GitHub Rank](https://reporank.com/vndmtrx/everything)](https://reporank.com)
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vndmtrx/everything?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Gospers Glider Gun](gospers_glider_gun.gif?raw=true)
